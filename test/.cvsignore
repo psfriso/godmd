@@ -1,0 +1,10 @@
+.cvsignore.swp
+<<<<<<<
+.cvsignore
+.dmdtest.in.swp
+.DS_Store
+>>>>>>>
+.testDiscrete.swp
+.testSetup.swp
+=======
+1.2

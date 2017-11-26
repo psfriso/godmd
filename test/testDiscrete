@@ -1,0 +1,2 @@
+#!/bin/csh
+../discrete/discrete -i dmdtest.in -pdbin $1.pdb -trj $1.traj.pdb -ener $1.ener.dat -pdbtarg $2.pdb

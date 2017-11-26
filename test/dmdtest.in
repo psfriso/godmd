@@ -1,0 +1,6 @@
+ &INPUT
+  TSNAP=500
+  NBLOC=1000
+  TEMP=300
+  seed=1987
+ &END 
